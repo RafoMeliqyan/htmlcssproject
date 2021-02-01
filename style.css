@@ -27,7 +27,7 @@ body {
     background-image: url("images/b_body.jpg");
 }
 .imagesDiv {
-    border: 1px black dashed;
+    /*border: 1px black dashed;*/
     height: 240px;
     width: auto;
 }
@@ -106,7 +106,7 @@ body {
 }
 
 .designImage {
-    border: 1px black dashed;
+    /*border: 1px black dashed;*/
     height: 500px;
     width: 500px;
     display: inline-block;
